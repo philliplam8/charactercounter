@@ -1,0 +1,20 @@
+html {
+    background-image: radial-gradient(#659DF2, #48A98A);
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Rubik', sans-serif;
+}
+
+textarea {
+    background: none;
+    font-size: 5vw;
+    height: 90vh;
+    width: 100%;
+    resize: none;
+    padding: 0;
+    border: none;
+    outline: none;
+}
+
+.counter {
+    display: flex;
+}
