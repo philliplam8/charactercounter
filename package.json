@@ -1,0 +1,23 @@
+{
+  "name": "charcounter",
+  "description": "This is a very simple application that will count all characters currently present within the text area",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "tsc app.ts",
+    "test": "test"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philliplam8/charactercounter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philliplam8/charactercounter/issues"
+  },
+  "homepage": "https://github.com/philliplam8/charactercounter#readme"
+}
